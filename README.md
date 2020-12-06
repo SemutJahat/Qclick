@@ -14,4 +14,4 @@ This URL Shortener use html to redirect to make sure the referer url is there.
 - **`Be careful, if you fail to pass the BadBot Blocker, your IP will blacklisted forever`**
 
 ## IMPORTANT
-> Always use addon domain to open the shortened link, instead using **MAIN** domain or you'll always get 404 Not Found
+> Instead using **MAIN** domain to open the link, use your addon domain or you'll get nothing
