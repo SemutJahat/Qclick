@@ -1,5 +1,5 @@
 # Qclick
-Simple URL Shortener with some BadBot Blocker using SleekDB for link database management.
+**Mobile Only** URL Shortener with some BadBot Blocker using SleekDB for link database management.
 
 This URL Shortener use html to redirect to make sure the referer url is there.
 
