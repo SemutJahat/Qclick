@@ -1,5 +1,5 @@
 <?php 
 
-$config['maindomain'] = 'luho.dev'; // fill with your MAIN domain
+$config['maindomain'] = 'example.com'; // fill with your MAIN domain
 
 ?>
