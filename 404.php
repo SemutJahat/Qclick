@@ -1,4 +1,3 @@
 <?php 
-
-$template = file_get_contents(__DIR__ . '/system/template/404.html');
-die($template);
+require_once 'autoload.php';
+$EB->selferror();
